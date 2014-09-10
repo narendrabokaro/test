@@ -1,0 +1,7 @@
+# .gitignore
+
+#test file
+test.html
+
+# temp subdirectory
+temp/
